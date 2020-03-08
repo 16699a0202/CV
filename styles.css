@@ -1,0 +1,33 @@
+body{
+       background-color: #edffea;
+    }
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 4px;
+  width: 100%;
+}
+h1{
+  color: #424874;
+}
+.heading{
+  font-style: italic;
+  color: #4d089a;
+}
+.circ:hover{
+  border-radius: 0%;
+  color: black;
+}
+.abc{
+  border-radius: 100%;
+}
+.middleimg{
+  margin-left: 400px;
+}
+.middlenme{
+  margin-left: 300px;
+}
+.cont{
+  margin-left: 450px;
+}
