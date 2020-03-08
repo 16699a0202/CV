@@ -1,0 +1,64 @@
+body{
+       background-color: #edffea;
+    }
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 4px;
+  width: 20%;
+}
+h1{
+  color: #424874;
+}
+.heading{
+  font-style: italic;
+  font-family: cursive;
+  color: #4d089a;
+}
+.circ:hover{
+  border-radius: 10%;
+  color: black;
+}
+.abc{
+  border-radius: 100%;
+}
+.middleimg{
+  margin-left: 670px;
+}
+.middlenme{
+  margin-left: 550px;
+}
+.cont{
+  margin-left: 700px;
+}
+.myc{
+  margin-left: 650px;
+}
+.contt{
+  margin-left: 650px;
+}
+.edu{
+  margin-left: 550px;
+}
+.eduh{
+  margin-left: 650px;
+}
+.prj{
+  margin-left: 350px;
+}
+.prjh{
+  margin-left: 650px;
+}
+.sssh{
+  margin-left: 650px
+}
+.sss{
+  margin-left: 550px;
+}
+.cerh{
+  margin-left: 650px;
+}
+.cer{
+  margin-left: 600px;
+}
